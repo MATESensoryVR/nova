@@ -25,17 +25,6 @@ Steps to build:
 > 🔑 **Build password**: `Mate2023!`
 
 ---
-
-## ⚠️ Notes
-
-- Large media files (>100 MB) were not pushed to GitHub.  
-  If you need the full dataset or missing assets, please contact us.
-- Required Unity packages: **XR Interaction Toolkit**, **Input System** (install if prompted).
-- Do **not** commit `Library/`, `Temp/`, `Obj/`, `Build/` or `Builds/` to keep the repo small.
-- For new large assets, consider using [Git LFS](https://git-lfs.github.com/) or external storage (e.g., Releases, Drive, Itch.io).
-
----
-
 ## 📧 Contact
 
 **Email:** tao.chengfang@phd.uni-mate.hu
