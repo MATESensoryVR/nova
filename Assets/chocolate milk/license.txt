@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vita Chocolate Milk
+* source:	https://sketchfab.com/3d-models/vita-chocolate-milk-cf71f2d412a5491ba70ef8081d553272
+* author:	kibot914 (https://sketchfab.com/kibot914)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vita Chocolate Milk" (https://sketchfab.com/3d-models/vita-chocolate-milk-cf71f2d412a5491ba70ef8081d553272) by kibot914 (https://sketchfab.com/kibot914) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
